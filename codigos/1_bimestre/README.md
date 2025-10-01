@@ -19,5 +19,6 @@ Nesta pasta estão os exemplos extras do **1º bimestre**, organizados por tema.
 - [Exercicio 7 - Conversão Explícita ](./codigo/ex7_conversao_explicita/conversao_explicita)
 - [Exercicio 8 - Função Soma](./codigo/ex8_funcao_soma/funcao_soma)
 
-
-
+## 30/09/2025
+- [Exercicio 9 lacos](./codigo/ex9_lacos/lacos)
+- [Exercicio 10 media](./codigo/ex10_media/media)
