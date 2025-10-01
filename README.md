@@ -7,7 +7,6 @@ Todas as atividades estão **separadas por bimestre** para facilitar o acompanha
 ---
 
 ## Estrutura do Repositório
-
 - [Listas de Exercícios](./listas/README.md)  
 - [Trabalhos](./trabalhos/README.md)  
 - [Códigos](./codigos/README.md)  
@@ -19,5 +18,6 @@ Todas as atividades estão **separadas por bimestre** para facilitar o acompanha
 - Instituto Federal do Rio Grande do Norte (IFRN)
 - Disciplina: **Algoritmos**
 - Ano-período: 2025-2
-- Aluno: **<Aluno>**  
+- Aluno: **Nadson Santos Nascimento**
+- Matricula: **20242014040025**  
 
