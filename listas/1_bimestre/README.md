@@ -14,4 +14,4 @@ Cada lista contém:
 - 📄 **3 - taxa_anual_de_crescimento** → [taxa_anual_de_crescimento](./lista1/3_taxa_anual_de_crescimento/taxa_anual_de_crescimento.cpp)  
 - 📄 **4 - taxa_anual_de_crescimento 2** → [taxa_anual_de_crescimento 2](./lista1/4_taxa_anual_de_crescimento2/taxa_anual_de_crescimento2.cpp)  
 - 📄 **5 - vendendo_combustieis** → [vendendo_combustieis](./lista1/5_vendendo_combustieis/vendendo_combustieis.cpp)  
-- 📄 **Relatório** → [Relatorio](./lista1/Relatorio)  
+- 📄 **Relatório** → [Relatorio](./lista1/Relatorio.docx)  
